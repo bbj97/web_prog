@@ -1,0 +1,15 @@
+mysql://ba3a2c17a45a2f:2b1053c9@eu-cdbr-west-01.cleardb.com/heroku_429164b8fe21a73?reconnect=true
+
+
+
+host je
+@eu-cdbr-west-01.cleardb.com
+
+db database je
+heroku_429164b8fe21a73
+
+user name je
+ba3a2c17a45a2f
+
+db pass je
+2b1053c9
